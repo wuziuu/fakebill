@@ -1,4 +1,3 @@
-# fakebill
 # Fakebill Seeding - Trang website fake bill chuyển khoản miễn phí
 # Bán 2 mã nguồn website fakebill
 # Giá 300k: https://fakebill.thanhdieu.com/
